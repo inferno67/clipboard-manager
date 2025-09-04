@@ -17,7 +17,7 @@ No more copying the same thing again and again – your clipboard is now searcha
 
 Clone the repo:
 ```bash
-git clone https://github.com/your-username/contextual-clipboard-manager.git
+git clone https://github.com/inferno67/contextual-clipboard-manager.git
 cd contextual-clipboard-manager
 ```
 Create a virtual environment:
